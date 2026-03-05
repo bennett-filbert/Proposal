@@ -1,12 +1,12 @@
 # Abstract
-Game name : 
+Game name : Super Mario Bros
 
 Group: 
 - 曾衡昌 113590033
 - 應尼歌 113590040
 
 # Game Introduction
-
+Super Mario Bros is a classic 2D side-scrolling platformer developed by Nintendo. Players control Mario, a plumber, as he runs and jumps through various levels to rescue Princess Peach from the villain Bowser. The game features enemies, obstacles, hidden secrets, and power-ups, making it one of the most iconic and influential video games in history.
 # Development Timeline
 
 ### Phase 1: Planning & Physics Foundations
